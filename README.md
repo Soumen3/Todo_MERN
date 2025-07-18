@@ -286,8 +286,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 👨‍💻 Author
 
 **Your Name**
-- GitHub: [@yourusername](https://github.com/yourusername)
-- Email: your.email@example.com
+- GitHub: [@Soumen3](https://github.com/Soumen3)
+- Email: ssamanta.dev@gamil.com
 
 ## 🙏 Acknowledgments
 
@@ -299,7 +299,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Support
 
-If you have any questions or need help with setup, please open an issue on GitHub or contact the maintainer.
+If you have any questions or need help with setup, please open an issue on GitHub or contact the developer.
 
 ---
 

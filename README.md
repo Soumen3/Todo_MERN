@@ -105,8 +105,7 @@ Todo_MERN/
 
 ### 1. Clone the Repository
 ```bash
-git clone <repository-url>
-cd Todo_MERN
+git clone https://github.com/Soumen3/Todo_MERN.git
 ```
 
 ### 2. Backend Setup
